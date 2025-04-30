@@ -36,11 +36,10 @@ You can try out the Currency Convertor here:
 
 ## Screenshots
 
+
 ![ Initial Screenshot of my project](./screenshots/initial_sc.png)
-
-![ my favourites dropdown](./screenshots/dropdown.png)
-
 ![ After Conversion.png Screenshot of my project](./screenshots/converted.png)
+![ my favourites dropdown list](./screenshots/dropdown.png)
 
 
 
