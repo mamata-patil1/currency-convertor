@@ -1,20 +1,16 @@
-import React from 'react'
-import './App.css'
-import CurrencyConvertor from './components/CurrencyConvertor'
+import React from "react";
+import "./App.css";
+import CurrencyConvertor from "./components/CurrencyConvertor";
 function App() {
-
   return (
     <>
-    <div className="min-h-screen bg-slate-400 flex flex-col items-center justify-center">
-      <div className='container'>
-
-    
-    <CurrencyConvertor/>
-    </div>
-    </div>
-     
+      <div className="min-h-screen bg-gray-300 flex flex-col items-center justify-center">
+        <div className="container">
+          <CurrencyConvertor />
+        </div>``
+      </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
