@@ -36,9 +36,11 @@ You can try out the Currency Convertor here:
 
 ## Screenshots
 
-![ Initial Screenshot of my project](https://github.com/mamata-patil1/Todo_List_App/blob/main/initial_sc.png)
+![ Initial Screenshot of my project](./screenshots/initial_sc.png)
 
-![ After Conversion.png Screenshot of my project](https://github.com/mamata-patil1/Todo_List_App/blob/main/converted.png)
+![ my favourites dropdown](./screenshots/dropdown.png)
+
+![ After Conversion.png Screenshot of my project](./screenshots/converted.png)
 
 
 
